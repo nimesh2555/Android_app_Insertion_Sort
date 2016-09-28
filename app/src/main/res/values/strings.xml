@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InsertionSort</string>
+    <string name="title_activity_array_n">array_n</string>
+    <string name="title_activity_sort">sort</string>
+</resources>
